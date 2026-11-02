@@ -8,3 +8,5 @@ let c = true; // type de c => bool
 console.log(typeof a);
 console.log(typeof b);
 console.log(typeof c);
+
+
